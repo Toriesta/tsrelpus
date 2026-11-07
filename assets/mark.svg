@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" role="img" aria-label="天枢 Tsrelpus">
+  <rect width="32" height="32" fill="#241B2F"/>
+  <g stroke="#F6F1E7" stroke-width="1.3" stroke-opacity=".82" fill="none">
+    <path d="M8.5 9.5V23.5L17.5 24.5 18 11 8.5 9.5"/>
+    <path d="M18 11 23.5 8.5 27 14 28 20.5"/>
+  </g>
+  <rect x="6.5" y="21.5" width="4" height="4" fill="#F6F1E7"/>
+  <rect x="15.5" y="22.5" width="4" height="4" fill="#F6F1E7"/>
+  <rect x="16" y="9" width="4" height="4" fill="#F6F1E7"/>
+  <rect x="21.5" y="6.5" width="4" height="4" fill="#F6F1E7"/>
+  <rect x="25" y="12" width="4" height="4" fill="#F6F1E7"/>
+  <rect x="26" y="18.5" width="4" height="4" fill="#F6F1E7"/>
+  <rect x="4.5" y="5.5" width="8" height="8" fill="#FF6B5E"/>
+</svg>
